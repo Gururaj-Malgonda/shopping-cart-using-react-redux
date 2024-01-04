@@ -181,4 +181,9 @@ img {
     .prodContainer-1 {
         grid-template-columns: 1fr;
     }
+    .cartItems{
+        display: flex;
+        /* flex-direction: column; */
+        flex-direction: column-reverse;
+    }
   }
